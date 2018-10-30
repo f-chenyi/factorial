@@ -11,7 +11,6 @@ This is small Python script that computes the [factorial](https://en.wikipedia.o
   ```
 - To run the code:
   ```
-  $ cd jenkins_tutorial
   $ python factorial.py 3
   ```
 - To run the test:
